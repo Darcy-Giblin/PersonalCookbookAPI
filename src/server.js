@@ -21,7 +21,7 @@ app.get("/health", (req, res) => {
   res.send("Health check: OK");
 });
 
-// Start the server
-app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+// // Start the server
+app.listen(port, "0.0.0.0", () => {
+  console.log("Server running on 0.0.0.0:3000");
 });
