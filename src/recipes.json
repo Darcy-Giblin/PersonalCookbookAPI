@@ -1,0 +1,715 @@
+{
+  "version": 1,
+  "recipes": [
+    {
+      "id": "default-htk-green-curry",
+      "title": "Authentic Thai green curry (chicken)",
+      "sourceUrl": "https://hot-thai-kitchen.com/green-curry-new-2/",
+      "ingredients": [
+        {
+          "rawText": "1 lb boneless skinless chicken thigh, 1-inch pieces",
+          "name": "boneless skinless chicken thigh, 1-inch pieces",
+          "amount": 1,
+          "unit": "lb",
+          "macros": {
+            "caloriesKcal": 640,
+            "proteinG": 76,
+            "carbsG": 0,
+            "fatG": 36
+          }
+        },
+        {
+          "rawText": "1.75 cup coconut milk, divided",
+          "name": "coconut milk, divided",
+          "amount": 1.75,
+          "unit": "cup",
+          "macros": {
+            "caloriesKcal": 560,
+            "proteinG": 0,
+            "carbsG": 12,
+            "fatG": 58
+          }
+        },
+        {
+          "rawText": "3.5 tbsp green curry paste (Maeploy or Aroy-D recommended)",
+          "name": "green curry paste (Maeploy or Aroy-D recommended)",
+          "amount": 3.5,
+          "unit": "tbsp",
+          "macros": {
+            "caloriesKcal": 70,
+            "proteinG": 0,
+            "carbsG": 8,
+            "fatG": 4
+          }
+        },
+        {
+          "rawText": "Jasmine rice for serving",
+          "name": "Jasmine rice for serving",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 820,
+            "proteinG": 16,
+            "carbsG": 180,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "0.5 lb Thai eggplant (or 19 oz canned bamboo shoots, drained)",
+          "name": "Thai eggplant (or 19 oz canned bamboo shoots, drained)",
+          "amount": 0.5,
+          "unit": "lb",
+          "macros": {
+            "caloriesKcal": 50,
+            "proteinG": 0,
+            "carbsG": 10,
+            "fatG": 0
+          }
+        }
+      ],
+      "steps": [
+        "Optional: pound Thai basil for paste (15 leaves, julienned), fingerroot (1 piece), fermented shrimp paste (1 tsp), and green curry paste (3½ tbsp) in a mortar (or blend with chicken stock (little) until smooth).",
+        "Bring coconut milk (~¾ cup of 1¾ cups total) to a full boil; add green curry paste (plus mortar blend if using); cook until coconut oil separates ((3–5 min)), or proceed if paste is thick.",
+        "Add boneless chicken thigh (1 lb); stir into paste. Pour in remaining coconut milk, chicken stock (1 cup), palm sugar (2 tbsp), and about half the fish sauce ((~¾ tbsp) of (1½–2 tbsp) total; adjust later).",
+        "Bruise makrut lime leaves (5); tear into chunks (discard tough stems). Simmer gently (10–15 min) until chicken is fork-tender.",
+        "Add Thai eggplant (½ lb) (or bamboo shoots (drained)) and cook until just tender; turn off heat. Stir in red bell pepper (¼, julienned) and Thai basil leaves (1 cup). Taste; add remaining fish sauce as needed. Serve with jasmine rice."
+      ],
+      "notes": "Paste strength varies by brand—taste and adjust. Source: Hot Thai Kitchen — https://hot-thai-kitchen.com/green-curry-new-2/\nChicken breast: marinate in 1 tbsp fish sauce; add later per site instructions.",
+      "photoPaths": [],
+      "tags": ["thai", "curry", "coconut"],
+      "prepMinutes": 20,
+      "cookMinutes": 15,
+      "temperature": {
+        "value": null,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-maangchi-kimchi-jjigae",
+      "title": "Kimchi stew (kimchi-jjigae)",
+      "sourceUrl": "https://www.maangchi.com/recipe/kimchi-jjigae",
+      "ingredients": [
+        {
+          "rawText": "1 lb kimchi, bite-size pieces",
+          "name": "kimchi, bite-size pieces",
+          "amount": 1,
+          "unit": "lb",
+          "macros": {
+            "caloriesKcal": 90,
+            "proteinG": 4,
+            "carbsG": 12,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "0.5 lb pork shoulder or pork belly, sliced",
+          "name": "pork shoulder or pork belly, sliced",
+          "amount": 0.5,
+          "unit": "lb",
+          "macros": {
+            "caloriesKcal": 510,
+            "proteinG": 58,
+            "carbsG": 0,
+            "fatG": 34
+          }
+        },
+        {
+          "rawText": "0.5 package tofu (optional), ½-inch slices",
+          "name": "tofu (optional), ½-inch slices",
+          "amount": 0.5,
+          "unit": "package",
+          "macros": {
+            "caloriesKcal": 180,
+            "proteinG": 20,
+            "carbsG": 0,
+            "fatG": 10
+          }
+        },
+        {
+          "rawText": "Steamed rice to serve",
+          "name": "Steamed rice to serve",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 620,
+            "proteinG": 12,
+            "carbsG": 136,
+            "fatG": 0
+          }
+        }
+      ],
+      "steps": [
+        "Anchovy stock: Simmer dried anchovies (7, cleaned), radish (⅓ cup sliced), green onion roots (from 3 onions), and dried kelp (~4×5 in) in water (4 cups) (20 min) medium-high; (5 min) low; strain (~2 cups for stew).",
+        "In a shallow pot, add kimchi (1 lb), kimchi brine (¼ cup), pork (½ lb), and onion (1, sliced). Slice green onions (2) diagonally and add.",
+        "Add kosher salt (1 tsp), sugar (2 tsp), gochugaru (2 tsp), gochujang (1 tbsp), and sesame oil (1 tsp). Pour in anchovy stock (2 cups). Cover; cook (10 min) medium-high.",
+        "Stir seasonings; lay tofu (½ package, optional) on top. Cover; cook (10–15 min) medium.",
+        "Top with chopped green onion (1); serve immediately with steamed rice."
+      ],
+      "notes": "Serves 2 with side dishes, 4 without. Source: Maangchi — https://www.maangchi.com/recipe/kimchi-jjigae\nKimchi stew is thicker and saltier than kimchi soup (guk).",
+      "photoPaths": [],
+      "tags": ["korean", "stew", "spicy", "pork"],
+      "prepMinutes": 20,
+      "cookMinutes": 35,
+      "temperature": {
+        "value": null,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-mkk-miyeok-guk",
+      "title": "Korean seaweed soup (miyeok guk)",
+      "sourceUrl": "https://mykoreankitchen.com/korean-seaweed-soup-miyeok-guk/",
+      "ingredients": [
+        {
+          "rawText": "120 g beef chuck or round steak, thin slices",
+          "name": "beef chuck or round steak, thin slices",
+          "amount": 120,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 280,
+            "proteinG": 34,
+            "carbsG": 0,
+            "fatG": 18
+          }
+        },
+        {
+          "rawText": "15 g dried seaweed (miyeok / wakame)",
+          "name": "dried seaweed (miyeok / wakame)",
+          "amount": 15,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 25,
+            "proteinG": 2,
+            "carbsG": 4,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "1 tbsp sesame oil",
+          "name": "sesame oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "macros": {
+            "caloriesKcal": 120,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 14
+          }
+        },
+        {
+          "rawText": "Steamed rice and Korean side dishes to serve",
+          "name": "Steamed rice and Korean side dishes to serve",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 520,
+            "proteinG": 10,
+            "carbsG": 114,
+            "fatG": 0
+          }
+        }
+      ],
+      "steps": [
+        "Soak dried seaweed (15 g) in cold water (5–10 min) until expanded. Rinse (2–3 times); drain and squeeze dry. Cut to little-finger lengths if needed.",
+        "Toss beef (120 g) with fine sea salt (¼ tsp) and black pepper; set aside.",
+        "Heat a medium pot over medium. Add sesame oil (1 tbsp), seaweed, and beef; stir until beef is partly cooked (~2 min).",
+        "Add soy sauce (1½ tbsp), minced garlic (1 tsp), and water (5 cups). Cover; boil medium to medium-high until beef is fully cooked (10–15 min). Adjust salt if needed.",
+        "Serve warm with steamed rice and side dishes."
+      ],
+      "notes": "3–4 servings. Often served on birthdays in Korea. Source: My Korean Kitchen — https://mykoreankitchen.com/korean-seaweed-soup-miyeok-guk/",
+      "photoPaths": [],
+      "tags": ["korean", "soup", "beef", "seaweed"],
+      "prepMinutes": 10,
+      "cookMinutes": 15,
+      "temperature": {
+        "value": null,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-rte-lemon-salmon",
+      "title": "Lemon garlic salmon tray bake",
+      "sourceUrl": "https://www.recipetineats.com/lemon-garlic-salmon-tray-bake-easy-healthy/",
+      "ingredients": [
+        {
+          "rawText": "4 piece salmon fillets (~180g each, skin on or off)",
+          "name": "salmon fillets (~180g each, skin on or off)",
+          "amount": 4,
+          "unit": "piece",
+          "macros": {
+            "caloriesKcal": 1240,
+            "proteinG": 104,
+            "carbsG": 0,
+            "fatG": 72
+          }
+        },
+        {
+          "rawText": "1 tsp lemon zest (1 lemon)",
+          "name": "lemon zest (1 lemon)",
+          "amount": 1,
+          "unit": "tsp",
+          "macros": {
+            "caloriesKcal": 3,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "1 tbsp lemon juice",
+          "name": "lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "macros": {
+            "caloriesKcal": 4,
+            "proteinG": 0,
+            "carbsG": 1,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "2 tbsp extra virgin olive oil",
+          "name": "extra virgin olive oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "macros": {
+            "caloriesKcal": 240,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 28
+          }
+        },
+        {
+          "rawText": "1 tsp Dijon mustard",
+          "name": "Dijon mustard",
+          "amount": 1,
+          "unit": "tsp",
+          "macros": {
+            "caloriesKcal": 5,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "2 clove garlic, grated",
+          "name": "garlic, grated",
+          "amount": 2,
+          "unit": "clove",
+          "macros": {
+            "caloriesKcal": 8,
+            "proteinG": 0,
+            "carbsG": 2,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "3 bunch asparagus, woody ends trimmed",
+          "name": "asparagus, woody ends trimmed",
+          "amount": 3,
+          "unit": "bunch",
+          "macros": {
+            "caloriesKcal": 60,
+            "proteinG": 6,
+            "carbsG": 10,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "200 g cherry or grape tomatoes",
+          "name": "cherry or grape tomatoes",
+          "amount": 200,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 36,
+            "proteinG": 0,
+            "carbsG": 8,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "2 tsp extra virgin olive oil (for veg)",
+          "name": "extra virgin olive oil (for veg)",
+          "amount": 2,
+          "unit": "tsp",
+          "macros": {
+            "caloriesKcal": 80,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 9
+          }
+        },
+        {
+          "rawText": "Parmesan, finely grated",
+          "name": "Parmesan, finely grated",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 110,
+            "proteinG": 10,
+            "carbsG": 0,
+            "fatG": 7
+          }
+        }
+      ],
+      "steps": [
+        "Mix lemon zest (1 tsp), lemon juice (1 tbsp), extra virgin olive oil (2 tbsp), Dijon mustard (1 tsp), garlic (2 cloves, grated), kosher salt (½ tsp), and black pepper (¼ tsp). Slather over tops and sides of salmon fillets (4× ~180 g). Marinate (1 hour) if time allows.",
+        "Preheat oven grill/broiler as hot as possible (~280°C / 525°F). Rack (~20 cm) from heat.",
+        "Toss asparagus (3 bunches) and cherry or grape tomatoes (200 g) with olive oil for veg (2 tsp) and salt & pepper for veg (¼ tsp). Spread on a large tray; nestle salmon fillets (4) with space between; spray with olive oil spray.",
+        "Grill/broil (~11 min) until salmon flakes; aim internal temperature (~50°C) for medium-rare (see notes).",
+        "Plate salmon and vegetables; grate Parmesan over vegetables; add lemon wedges and parsley if using; serve."
+      ],
+      "notes": "Marinade optional but improves flavour. Source: RecipeTin Eats — https://www.recipetineats.com/lemon-garlic-salmon-tray-bake-easy-healthy/\nDoneness: ~50°C pull for juicy salmon; ~60°C for more done.",
+      "photoPaths": [],
+      "tags": ["seafood", "sheet-pan", "quick"],
+      "prepMinutes": 10,
+      "cookMinutes": 11,
+      "temperature": {
+        "value": 280,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-farmhouse-sourdough",
+      "title": "No-knead sourdough bread",
+      "sourceUrl": "https://www.farmhouseonboone.com/no-knead-sourdough-bread/",
+      "ingredients": [
+        {
+          "rawText": "500 g unbleached all-purpose flour",
+          "name": "unbleached all-purpose flour",
+          "amount": 500,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 1820,
+            "proteinG": 52,
+            "carbsG": 380,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "200 g freshly ground whole wheat flour",
+          "name": "freshly ground whole wheat flour",
+          "amount": 200,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 680,
+            "proteinG": 26,
+            "carbsG": 144,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "250 g bread flour (can use more AP instead)",
+          "name": "bread flour (can use more AP instead)",
+          "amount": 250,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 910,
+            "proteinG": 28,
+            "carbsG": 190,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "200 g active sourdough starter",
+          "name": "active sourdough starter",
+          "amount": 200,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 100,
+            "proteinG": 4,
+            "carbsG": 20,
+            "fatG": 0
+          }
+        }
+      ],
+      "steps": [
+        "Feed active sourdough starter (200 g) (4–12 h) ahead so it is lively and bubbly.",
+        "Combine warm water (650 g) with unbleached AP flour (500 g), whole wheat flour (200 g), and bread flour (250 g); rest (30 min) (autolyse).",
+        "Add starter (200 g); dimple in with a wet hand. Sprinkle salt (20 g); mix by hand (~5 min); rest (30 min) covered.",
+        "Stretch-and-fold: first (3) rounds every (15 min); next (3) rounds every (30 min).",
+        "Bulk ferment until doubled (time varies). Split gently into two loaves; shape; bench rest (15–20 min) uncovered; shape again.",
+        "Proof seam-up in a floured banneton or towel-lined bowl; refrigerate covered (12–15 h).",
+        "Preheat Dutch oven to 260°C (500°F) (~1 h). Score cold dough; bake covered (~20 min) at 260°C (500°F); uncover, reduce to 245°C (475°F), bake (~25 min) more until deep brown."
+      ],
+      "notes": "Long timeline (mix day one, bake next). Source: Farmhouse on Boone — https://www.farmhouseonboone.com/no-knead-sourdough-bread/\nUse a kitchen scale for best results; starter must be active.",
+      "photoPaths": [],
+      "tags": ["bread", "sourdough", "overnight"],
+      "prepMinutes": 45,
+      "cookMinutes": 45,
+      "temperature": {
+        "value": 260,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-rte-pork-roast-crackling",
+      "title": "Pork roast with crispy crackling",
+      "sourceUrl": "https://www.recipetineats.com/pork-shoulder-roast-with-crispy-crackling/",
+      "ingredients": [
+        {
+          "rawText": "3 kg boneless skin-on pork shoulder, unrolled, not scored",
+          "name": "boneless skin-on pork shoulder, unrolled, not scored",
+          "amount": 3,
+          "unit": "kg",
+          "macros": {
+            "caloriesKcal": 7200,
+            "proteinG": 540,
+            "carbsG": 0,
+            "fatG": 520
+          }
+        },
+        {
+          "rawText": "2 cup dry white wine (or cider; see notes)",
+          "name": "dry white wine (or cider; see notes)",
+          "amount": 2,
+          "unit": "cup",
+          "macros": {
+            "caloriesKcal": 320,
+            "proteinG": 0,
+            "carbsG": 8,
+            "fatG": 0
+          }
+        }
+      ],
+      "steps": [
+        "Pat pork skin dry (overnight uncovered in fridge ideal if vac-packed). Preheat oven to 220°C / 430°F (200°C fan).",
+        "Season flesh with salt (1½ tsp of 3 tsp total), black pepper (1¼ tsp), fennel seeds (2 tsp), and olive oil (1 tbsp); rub into crevices.",
+        "Flip skin-side up; rub skin with olive oil (1 tsp) and remaining salt (1½ tsp) evenly. Place halved garlic (1 bulb) and onions (2) in roasting pan; set pork skin-up on top.",
+        "Pour white wine (2 cups) into pan without wetting skin. Roast uncovered at 160°C / 320°F (140°C fan) for 2½ hours.",
+        "After 1½ hours, level warped skin with foil balls; return for remaining 1 hour. Add water to pan if drying; re-salt any bald skin patches.",
+        "Increase oven to 250°C / 485°F (or max). Roast (30 min), rotating pan, until crackling is crisp all over; foil-patch done areas if needed.",
+        "Rest pork loosely tented (20 min). Slice with a serrated knife; serve gravy beside crackling (not on top).",
+        "Gravy: Skim 3 tbsp fat from pan into a saucepan. Strain pan juices (press onion/garlic); skim excess fat. Cook flour (¼ cup) in fat (1 min); whisk in chicken stock (2 cups) and strained juices; simmer until syrupy (~3 min); season."
+      ],
+      "notes": "10–12 servings. Boneless flat shoulder gives best crackle. Source: RecipeTin Eats — https://www.recipetineats.com/pork-shoulder-roast-with-crispy-crackling/\nFridge-dry skin overnight if supermarket vac-packed. Separate crackling from meat when storing leftovers.",
+      "photoPaths": [],
+      "tags": ["pork", "roast", "western", "oven"],
+      "prepMinutes": 15,
+      "cookMinutes": 200,
+      "temperature": {
+        "value": 160,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-simple-feta-salad",
+      "title": "Simple feta salad",
+      "ingredients": [
+        {
+          "rawText": "Mixed loose salad leaves",
+          "name": "Mixed loose salad leaves",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 40,
+            "proteinG": 4,
+            "carbsG": 8,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "150 g feta, crumbled",
+          "name": "feta, crumbled",
+          "amount": 150,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 400,
+            "proteinG": 21,
+            "carbsG": 0,
+            "fatG": 32
+          }
+        },
+        {
+          "rawText": "2 piece tomatoes, halved or wedged",
+          "name": "tomatoes, halved or wedged",
+          "amount": 2,
+          "unit": "piece",
+          "macros": {
+            "caloriesKcal": 44,
+            "proteinG": 0,
+            "carbsG": 10,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "Extra veg as you like (cucumber, capsicum, red onion, avocado, etc.)",
+          "name": "Extra veg as you like (cucumber, capsicum, red onion, avocado, etc.)",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 80,
+            "proteinG": 0,
+            "carbsG": 14,
+            "fatG": 4
+          }
+        },
+        {
+          "rawText": "3 tbsp extra virgin olive oil",
+          "name": "extra virgin olive oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "macros": {
+            "caloriesKcal": 360,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 42
+          }
+        }
+      ],
+      "steps": [
+        "Wash and dry mixed loose salad leaves; add to a large bowl.",
+        "Add tomatoes (2, halved or wedged), crumbled feta (150 g), and any extra veg you like (cucumber, capsicum, red onion, avocado, etc.).",
+        "Whisk extra virgin olive oil (3 tbsp), balsamic vinegar (1 tbsp), Dijon mustard (1 tsp, optional), and honey or sugar (½ tsp, optional); season with salt and black pepper.",
+        "Toss salad lightly with dressing just before serving."
+      ],
+      "notes": "Flexible house salad — swap in whatever crisp veg you have on hand.",
+      "photoPaths": [],
+      "tags": ["salad", "vegetarian", "quick", "no-cook"],
+      "prepMinutes": 10,
+      "cookMinutes": 0,
+      "temperature": {
+        "value": null,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    },
+    {
+      "id": "default-rte-spaghetti-bolognese",
+      "title": "Spaghetti Bolognese",
+      "sourceUrl": "https://www.recipetineats.com/spaghetti-bolognese/",
+      "ingredients": [
+        {
+          "rawText": "1.5 tbsp olive oil",
+          "name": "olive oil",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "macros": {
+            "caloriesKcal": 180,
+            "proteinG": 0,
+            "carbsG": 0,
+            "fatG": 21
+          }
+        },
+        {
+          "rawText": "500 g beef mince (or half pork/half beef)",
+          "name": "beef mince (or half pork/half beef)",
+          "amount": 500,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 1050,
+            "proteinG": 105,
+            "carbsG": 0,
+            "fatG": 70
+          }
+        },
+        {
+          "rawText": "800 g crushed tomatoes (or passata)",
+          "name": "crushed tomatoes (or passata)",
+          "amount": 800,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 160,
+            "proteinG": 8,
+            "carbsG": 32,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "400 g dried spaghetti",
+          "name": "dried spaghetti",
+          "amount": 400,
+          "unit": "g",
+          "macros": {
+            "caloriesKcal": 1480,
+            "proteinG": 52,
+            "carbsG": 300,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "1 piece onion, finely chopped",
+          "name": "onion, finely chopped",
+          "amount": 1,
+          "unit": "piece",
+          "macros": {
+            "caloriesKcal": 44,
+            "proteinG": 0,
+            "carbsG": 10,
+            "fatG": 0
+          }
+        },
+        {
+          "rawText": "Parmesan and parsley to serve",
+          "name": "Parmesan and parsley to serve",
+          "amount": null,
+          "unit": "",
+          "macros": {
+            "caloriesKcal": 220,
+            "proteinG": 20,
+            "carbsG": 0,
+            "fatG": 14
+          }
+        }
+      ],
+      "steps": [
+        "Heat olive oil (1½ tbsp) in a large pot over medium-high. Add onion (1, finely chopped) and garlic (2 cloves, minced); cook (~3 min) until golden.",
+        "Raise heat; add beef mince (500 g) and brown, breaking it up as it cooks.",
+        "Pour in dry red wine (½ cup); simmer (1 min), scraping the pan.",
+        "Add crushed tomatoes (800 g), tomato paste (2 tbsp), beef bouillon cubes (2, crumbled), white sugar (2 tsp, if needed), Worcestershire sauce (2 tsp), bay leaves (2), fresh thyme (2 sprigs), salt (¾ tsp), and black pepper (½ tsp). Simmer (20–30 min) uncovered (add water if too thick). Optional: cover and simmer on low (2–2.5 h) with extra water for deeper flavour.",
+        "Cook dried spaghetti (400 g) one minute shy of package time; reserve pasta water. Optionally toss pasta in the sauce with reserved water (~½ cup) until glossy. Serve with Parmesan and parsley."
+      ],
+      "notes": "Source: RecipeTin Eats — https://www.recipetineats.com/spaghetti-bolognese/\nSlow-simmer optional; better next day.",
+      "photoPaths": [],
+      "tags": ["pasta", "italian", "beef"],
+      "prepMinutes": 10,
+      "cookMinutes": 30,
+      "temperature": {
+        "value": null,
+        "unit": "C",
+        "appliance": "oven"
+      },
+      "createdAt": "2026-01-01T12:00:00.000Z",
+      "updatedAt": "2026-01-01T12:00:00.000Z"
+    }
+  ],
+  "bundledDefaultsRevision": 8,
+  "mealPlanV2": {
+    "wed": {
+      "dinner": {
+        "recipeIds": ["default-htk-green-curry"]
+      }
+    }
+  },
+  "measurementSettings": {
+    "weightSystem": "metric",
+    "useVolumeCups": true
+  },
+  "coreIngredientAliases": {
+    "parmesan cheese": "parmesan",
+    "grated parmesan": "parmesan",
+    "parmigiano reggiano": "parmesan",
+    "garmesan": "parmesan"
+  },
+  "corePantryNames": ["garlic", "pepper", "salt"]
+}

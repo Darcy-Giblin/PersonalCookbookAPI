@@ -1,22 +1,24 @@
-'use strict';
-
-/** @type {import('sequelize-cli').Migration} */
+"use strict";
 module.exports = {
-  async up (queryInterface, Sequelize) {
-    /**
-     * Add altering commands here.
-     *
-     * Example:
-     * await queryInterface.createTable('users', { id: Sequelize.INTEGER });
-     */
+  up: async (queryInterface, Sequelize) => {
+    await queryInterface.createTable("Recipes", {
+      id: { type: Sequelize.STRING, primaryKey: true },
+      title: Sequelize.STRING,
+      sourceUrl: Sequelize.STRING,
+      notes: Sequelize.TEXT,
+      prepMinutes: Sequelize.INTEGER,
+      cookMinutes: Sequelize.INTEGER,
+      createdAt: {
+        type: Sequelize.DATE,
+        defaultValue: Sequelize.literal("NOW()"),
+      },
+      updatedAt: {
+        type: Sequelize.DATE,
+        defaultValue: Sequelize.literal("NOW()"),
+      },
+    });
   },
-
-  async down (queryInterface, Sequelize) {
-    /**
-     * Add reverting commands here.
-     *
-     * Example:
-     * await queryInterface.dropTable('users');
-     */
-  }
+  down: async (queryInterface) => {
+    await queryInterface.dropTable("Recipes");
+  },
 };

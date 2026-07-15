@@ -22,14 +22,7 @@ if (config.use_env_variable) {
 }
 
 fs.readdirSync(__dirname)
-  .filter((file) => {
-    return (
-      file.indexOf(".") !== 0 &&
-      file !== basename &&
-      file.slice(-3) === ".js" &&
-      file.indexOf(".test.js") === -1
-    );
-  })
+  .filter((file) => file !== basename && file.endsWith(".js"))
   .forEach((file) => {
     const model = require(path.join(__dirname, file))(
       sequelize,
